@@ -77,8 +77,8 @@ To remove it later: `schtasks /delete /tn "TaskbarMonitor" /f`
 ### 2. Get the code
 
 ```powershell
-git clone https://github.com/<your-username>/<repo-name>.git
-cd <repo-name>
+git clone https://github.com/ashaduzzaman-niloy/TaskbarMonitor.git
+cd TaskbarMonitor
 ```
 
 Or click **Code → Download ZIP** on this page and extract it.
